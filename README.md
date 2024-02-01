@@ -1,8 +1,6 @@
 <!-- TEXT AUTOCOMPLETE -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=archia&size=50&pause=1000&color=99FF00&background=000000&center=true&vCenter=true&random=false&width=1000&height=300&lines=Bienvenido+A+Mi+Skulk;Soy+Sebastian+Jimenez+;Ecommerce+Manager)](https://git.io/typing-svg)
-![GitHub User's stars](https://img.shields.io/github/stars/kevnnard?logo=github)
-![GitHub followers](https://img.shields.io/github/followers/kevnnard?logo=github)
 
 <pre>
 <h4>I’m currently working on</h4>
