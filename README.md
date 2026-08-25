@@ -1,95 +1,55 @@
-<!-- TEXT AUTOCOMPLETE -->
+<!-- ===== HEADER ===== -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=archia&size=50&pause=1000&color=99FF00&background=000000&center=true&vCenter=true&random=false&width=1000&height=300&lines=Bienvenido+A+Mi+Skulk;Soy+Sebastian+Jimenez+;Ecommerce+Manager)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=45&pause=1000&color=99FF00&background=000000&center=true&vCenter=true&width=1000&height=120&lines=Bienvenido+A+Mi+Skulk;Soy+Sebastian+Jimenez;Ecommerce+Manager)](https://github.com/juanse-08)
+
+<h4>Actualmente trabajando en</h4>
 
 <pre>
-<h4>I’m currently working on</h4>
-
-🎭 <a href="https://challengetrackr.com">Three Trackr</a>             (⭐ New)  
-🦊 <a href="https://foxracing.com.co" taget="_blank">Fox Racing Colombia</a>      (⭐⭐⭐ Current)
+🎭 <a href="https://challengetrackr.com" target="_blank">Three Trackr</a>        (⭐ New)
+🦊 <a href="https://foxracing.com.co" target="_blank">Fox Racing Colombia</a>   (⭐⭐⭐ Current)
 </pre>
-
-<!-- TAGS GITHUB -->
 
 ![Open To Work](https://img.shields.io/badge/Available_to_work-05122A?logo=linkedin&logoColor=fff)
 
-<pre></pre>
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg">
-</div>
+<!-- Snake de contribuciones: el SVG anterior (1999AZZAR/...) ya no existe (404).
+     Para tener el tuyo, agrega el GitHub Action "Platane/snk" en este repo (juanse-08/juanse-08)
+     y apunta aquí a tu propio grid-snake.svg. -->
 
-<pre></pre>
+<!-- ===== GITHUB STATS ===== -->
 
- <!-- TAGS GITHUB -->
-<table class="w-full">
+<p align="center">
+  <img src="https://img.shields.io/github/stars/juanse-08?logo=github" alt="GitHub stars" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/juanse-08?logo=github" alt="GitHub followers" />
+</p>
 
-<div style="display:flex;justify-content:space-between;width:100%;">
+<!-- ===== STACK & HERRAMIENTAS ===== -->
 
-![GitHub User's stars](https://img.shields.io/github/stars/juanse-08?logo=github)
-
-![GitHub followers](https://img.shields.io/github/followers/juanse-08?logo=github)
-
-</div>
-
-<td style="display:flex;justify-content:space-between;width:100%;">
-
-![Meta Ads](https://img.shields.io/badge/Meta_Ads-05122A?style=flat&logo=meta)&nbsp;
-
-![google Ads](https://img.shields.io/badge/Google_Ads-05122A?style=flat&logo=googleads)&nbsp;
-
-![shopify](https://img.shields.io/badge/Shopify-05122A?style=flat&logo=shopify)&nbsp;
-
-![Excel](https://img.shields.io/badge/-MicrosofExcel-05122A?style=flat&logo=microsoftexcel)&nbsp;
-
-![Sheets](https://img.shields.io/badge/-Sheets-05122A?style=flat&logo=googlesheets)&nbsp;
-
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
-![Afecafter](https://img.shields.io/badge/-adobeaftereffects-05122A?style=flat&logo=adobeaftereffects)&nbsp;
-
-![Google Analytics](https://img.shields.io/badge/-Google_Analytics-05122A?style=flat&logo=googleanalytics)&nbsp;
-
-![Mercado_Pago](https://img.shields.io/badge/-Mercado_Pago-05122A?style=flat&logo=mercadopago)&nbsp;
-
-![Chats Bot](https://img.shields.io/badge/-Chat_Bots-05122A?style=flat&logo=chatbot)&nbsp;
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
-![Amazon](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp;
-
-![amazons3](https://img.shields.io/badge/-AWS_S3-05122A?style=flat&logo=amazons3)&nbsp;
-
-![digitalocean](https://img.shields.io/badge/-Digital_Ocean-05122A?style=flat&logo=digitalocean)&nbsp;
-
-![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)&nbsp;
-
-![Vercel](https://img.shields.io/badge/Vercel-05122A?style=flat&logo=vercel)&nbsp;
-
-![netlify](https://img.shields.io/badge/Netlify-05122A?style=flat&logo=netlify)&nbsp;
-
-![mui](https://img.shields.io/badge/MUI-05122A?style=flat&logo=mui)&nbsp;
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-
-![mongodb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-![Premier](https://img.shields.io/badge/-Premier-05122A?style=flat&logo=adobepremierpro)&nbsp;
-
-</td>
-
-</tr>
-</table>
-
-
-<pre></pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/Meta_Ads-05122A?style=flat&logo=meta" alt="Meta Ads" />
+  <img src="https://img.shields.io/badge/Google_Ads-05122A?style=flat&logo=googleads" alt="Google Ads" />
+  <img src="https://img.shields.io/badge/Shopify-05122A?style=flat&logo=shopify" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Excel-05122A?style=flat&logo=microsoftexcel" alt="Excel" />
+  <img src="https://img.shields.io/badge/Sheets-05122A?style=flat&logo=googlesheets" alt="Google Sheets" />
+  <img src="https://img.shields.io/badge/Illustrator-05122A?style=flat&logo=adobeillustrator" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Photoshop-05122A?style=flat&logo=adobephotoshop" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/After_Effects-05122A?style=flat&logo=adobeaftereffects" alt="After Effects" />
+  <img src="https://img.shields.io/badge/Google_Analytics-05122A?style=flat&logo=googleanalytics" alt="Google Analytics" />
+  <img src="https://img.shields.io/badge/Mercado_Pago-05122A?style=flat&logo=mercadopago" alt="Mercado Pago" />
+  <img src="https://img.shields.io/badge/Chat_Bots-05122A?style=flat&logo=chatbot" alt="Chat Bots" />
+  <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonwebservices" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS_S3-05122A?style=flat&logo=amazons3" alt="AWS S3" />
+  <img src="https://img.shields.io/badge/Digital_Ocean-05122A?style=flat&logo=digitalocean" alt="Digital Ocean" />
+  <img src="https://img.shields.io/badge/Astro-05122A?style=flat&logo=astro" alt="Astro" />
+  <img src="https://img.shields.io/badge/Vercel-05122A?style=flat&logo=vercel" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-05122A?style=flat&logo=netlify" alt="Netlify" />
+  <img src="https://img.shields.io/badge/MUI-05122A?style=flat&logo=mui" alt="MUI" />
+  <img src="https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-05122A?style=flat&logo=css" alt="CSS" />
+  <img src="https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/VS_Code-05122A?style=flat&logo=visualstudiocode" alt="VS Code" />
+  <img src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-05122A?style=flat&logo=adobepremierepro" alt="Premiere Pro" />
+</p>
