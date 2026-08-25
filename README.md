@@ -11,9 +11,11 @@
 
 ![Open To Work](https://img.shields.io/badge/Available_to_work-05122A?logo=linkedin&logoColor=fff)
 
-<!-- Snake de contribuciones: el SVG anterior (1999AZZAR/...) ya no existe (404).
-     Para tener el tuyo, agrega el GitHub Action "Platane/snk" en este repo (juanse-08/juanse-08)
-     y apunta aquí a tu propio grid-snake.svg. -->
+<!-- ===== SNAKE (contribuciones reales de @juanse-08) ===== -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Juanse-08/Juanse-08/output/github-snake.svg" alt="snake" />
+</div>
 
 <!-- ===== GITHUB STATS ===== -->
 
