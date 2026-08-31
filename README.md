@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <sub>+5 años liderando tiendas online, marketplaces y pauta digital para marcas como Fox Racing, Michelin Footwear y Replays. Enfocado en tráfico, conversión y ventas.</sub>
+  <sub>+5 años liderando tiendas online, marketplaces y pauta digital para marcas como Fox Racing, Michelin Footwear y Replays. SEO, contenido y performance enfocados en tráfico, conversión y ventas.</sub>
 </p>
 
 ---
@@ -116,6 +116,19 @@ API para gestionar inventario, pedidos, sucursales, ventas y más.
 ![Google Ads](https://img.shields.io/badge/Google_Ads-05122A?style=flat&logo=googleads)
 ![TikTok Ads](https://img.shields.io/badge/TikTok_Ads-05122A?style=flat&logo=tiktok)
 ![Klaviyo](https://img.shields.io/badge/Klaviyo-05122A?style=flat&logo=klaviyo)
+
+</details>
+
+<details open>
+<summary><strong>SEO &amp; Contenido</strong></summary>
+<br/>
+
+![SEO on-page](https://img.shields.io/badge/SEO_on--page-05122A?style=flat&logo=googlesearchconsole)
+![Keyword Research](https://img.shields.io/badge/Keyword_Research-05122A?style=flat&logo=google)
+![Copywriting](https://img.shields.io/badge/Copywriting-05122A?style=flat)
+![Redes Sociales](https://img.shields.io/badge/Redes_Sociales-05122A?style=flat&logo=instagram)
+![Programación de contenido](https://img.shields.io/badge/Programaci%C3%B3n_de_contenido-05122A?style=flat&logo=meta)
+![Edición de video](https://img.shields.io/badge/Edici%C3%B3n_de_video-05122A?style=flat&logo=capcut)
 
 </details>
 
