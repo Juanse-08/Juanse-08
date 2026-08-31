@@ -138,6 +138,18 @@ API para gestionar inventario, pedidos, sucursales, ventas y más.
 </details>
 
 <details>
+<summary><strong>CRO &amp; Conversión</strong></summary>
+<br/>
+
+![CRO](https://img.shields.io/badge/CRO-05122A?style=flat)
+![UX/UI](https://img.shields.io/badge/UX_/_UI-05122A?style=flat)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-05122A?style=flat)
+![Embudos](https://img.shields.io/badge/Embudos_de_conversi%C3%B3n-05122A?style=flat)
+![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-05122A?style=flat&logo=microsoft)
+
+</details>
+
+<details>
 <summary><strong>Análisis, CRM &amp; Data</strong></summary>
 <br/>
 
