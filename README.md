@@ -102,6 +102,7 @@ API para gestionar inventario, pedidos, sucursales, ventas y más.
 <br/>
 
 ![Shopify](https://img.shields.io/badge/Shopify_2.0-05122A?style=flat&logo=shopify)
+![WordPress](https://img.shields.io/badge/WordPress_/_WooCommerce-05122A?style=flat&logo=wordpress)
 ![Mercado Libre](https://img.shields.io/badge/Mercado_Libre-05122A?style=flat&logo=mercadolibre&logoColor=FFE600)
 ![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-05122A?style=flat&logo=mercadopago)
 ![WordPress](https://img.shields.io/badge/WordPress-05122A?style=flat&logo=wordpress)
@@ -124,6 +125,7 @@ API para gestionar inventario, pedidos, sucursales, ventas y más.
 <br/>
 
 ![SEO on-page](https://img.shields.io/badge/SEO_on--page-05122A?style=flat&logo=googlesearchconsole)
+![WordPress SEO](https://img.shields.io/badge/WordPress_SEO-05122A?style=flat&logo=wordpress)
 ![Keyword Research](https://img.shields.io/badge/Keyword_Research-05122A?style=flat&logo=google)
 ![Copywriting](https://img.shields.io/badge/Copywriting-05122A?style=flat)
 ![Redes Sociales](https://img.shields.io/badge/Redes_Sociales-05122A?style=flat&logo=instagram)
@@ -133,10 +135,11 @@ API para gestionar inventario, pedidos, sucursales, ventas y más.
 </details>
 
 <details>
-<summary><strong>Análisis &amp; Data</strong></summary>
+<summary><strong>Análisis, CRM &amp; Data</strong></summary>
 <br/>
 
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-05122A?style=flat&logo=googleanalytics)
+![CRM](https://img.shields.io/badge/CRM-05122A?style=flat&logo=hubspot)
 ![Excel](https://img.shields.io/badge/Excel-05122A?style=flat&logo=microsoftexcel)
 ![Sheets](https://img.shields.io/badge/Sheets-05122A?style=flat&logo=googlesheets)
 ![Chat Bots](https://img.shields.io/badge/Chat_Bots-05122A?style=flat&logo=chatbot)
