@@ -104,6 +104,7 @@ API para gestionar inventario, pedidos, sucursales, ventas y más.
 ![Shopify](https://img.shields.io/badge/Shopify_2.0-05122A?style=flat&logo=shopify)
 ![WordPress](https://img.shields.io/badge/WordPress_/_WooCommerce-05122A?style=flat&logo=wordpress)
 ![Mercado Libre](https://img.shields.io/badge/Mercado_Libre-05122A?style=flat&logo=mercadolibre&logoColor=FFE600)
+![Proveedores](https://img.shields.io/badge/Gesti%C3%B3n_de_proveedores-05122A?style=flat)
 ![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-05122A?style=flat&logo=mercadopago)
 ![WordPress](https://img.shields.io/badge/WordPress-05122A?style=flat&logo=wordpress)
 
@@ -116,6 +117,8 @@ API para gestionar inventario, pedidos, sucursales, ventas y más.
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads-05122A?style=flat&logo=meta)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-05122A?style=flat&logo=googleads)
 ![TikTok Ads](https://img.shields.io/badge/TikTok_Ads-05122A?style=flat&logo=tiktok)
+![Gestión publicitaria](https://img.shields.io/badge/Gesti%C3%B3n_publicitaria-05122A?style=flat)
+![Lead Generation](https://img.shields.io/badge/Lead_Generation-05122A?style=flat)
 ![Klaviyo](https://img.shields.io/badge/Klaviyo-05122A?style=flat&logo=klaviyo)
 
 </details>
@@ -140,6 +143,7 @@ API para gestionar inventario, pedidos, sucursales, ventas y más.
 
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-05122A?style=flat&logo=googleanalytics)
 ![CRM](https://img.shields.io/badge/CRM-05122A?style=flat&logo=hubspot)
+![Informes](https://img.shields.io/badge/Informes_/_reporter%C3%ADa-05122A?style=flat&logo=microsoftexcel)
 ![Excel](https://img.shields.io/badge/Excel-05122A?style=flat&logo=microsoftexcel)
 ![Sheets](https://img.shields.io/badge/Sheets-05122A?style=flat&logo=googlesheets)
 ![Chat Bots](https://img.shields.io/badge/Chat_Bots-05122A?style=flat&logo=chatbot)
